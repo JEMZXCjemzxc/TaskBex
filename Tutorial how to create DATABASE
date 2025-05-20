@@ -1,0 +1,11 @@
+pag install ug laragon from this link:
+https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe
+
+sud sa phpmyadmin create database named TaskBex
+table = user
+id = int auto increment
+name = varchar(255)
+username = varchar(255)
+email = varchar(255)
+password = varchar (255)
+
