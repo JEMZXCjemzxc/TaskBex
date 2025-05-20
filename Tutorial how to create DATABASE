@@ -9,3 +9,14 @@ username = varchar(255)
 email = varchar(255)
 password = varchar (255)
 
+inside your c://laragon/www/
+create a folder for your project ex. TaskBex
+
+create files:
+db.php
+register.php
+login.php
+dashboard.php
+logout.php
+
+the code are provided in the github
